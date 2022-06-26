@@ -130,6 +130,11 @@ section .content p {
     gap: 3.2rem;
 }
 
+.social-links svg {
+    width: 3rem;
+    height: 3rem;
+}
+
 
 
 
@@ -468,10 +473,6 @@ footer .social-links {
     justify-content: flex-start;
 }
 
-footer .social-links svg {
-    width: 3rem;
-    height: 3rem;
-}
 
 /*////////////// backToTopButton elements ////////////////*/
 
