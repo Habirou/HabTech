@@ -1,2 +1,2 @@
 # HabTech
-Projeto para meu proprio site
+Site da empresa 
