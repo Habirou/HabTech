@@ -470,7 +470,7 @@ footer p {
 }
 
 footer .social-links {
-    justify-content: center;
+    justify-content: flex-start;
 }
 
 
